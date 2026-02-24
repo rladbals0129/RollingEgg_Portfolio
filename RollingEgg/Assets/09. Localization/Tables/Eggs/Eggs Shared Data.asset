@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Eggs Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Eggs
+  m_TableCollectionNameGuidString: fae0415a8bc6f284dbc7fca235a64b09
+  m_Entries:
+  - m_Id: 485846970368
+    m_Key: egg_blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488518742016
+    m_Key: egg_white
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490330681344
+    m_Key: egg_black
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492142620672
+    m_Key: egg_red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493921005568
+    m_Key: egg_yellow
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7561247162202062983
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247162202062983
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1762848769370

@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0706b467602b884db1bdbb5cf072af9, type: 3}
+  m_Name: EvolutionRuleTableSO
+  m_EditorClassIdentifier: 
+  rows:
+  - id: 1
+    eggType: blue
+    dominantStat: 0
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 101
+      probabilityPercent: 90
+    - formId: 102
+      probabilityPercent: 10
+  - id: 2
+    eggType: blue
+    dominantStat: 0
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 101
+      probabilityPercent: 70
+    - formId: 102
+      probabilityPercent: 27
+    - formId: 103
+      probabilityPercent: 3
+  - id: 3
+    eggType: blue
+    dominantStat: 1
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 101
+      probabilityPercent: 90
+    - formId: 103
+      probabilityPercent: 10
+  - id: 4
+    eggType: blue
+    dominantStat: 1
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 101
+      probabilityPercent: 70
+    - formId: 103
+      probabilityPercent: 27
+    - formId: 104
+      probabilityPercent: 3
+  - id: 5
+    eggType: blue
+    dominantStat: 2
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 102
+      probabilityPercent: 90
+    - formId: 101
+      probabilityPercent: 10
+  - id: 6
+    eggType: blue
+    dominantStat: 2
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 102
+      probabilityPercent: 70
+    - formId: 103
+      probabilityPercent: 27
+    - formId: 105
+      probabilityPercent: 3
+  - id: 7
+    eggType: blue
+    dominantStat: 3
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 102
+      probabilityPercent: 90
+    - formId: 103
+      probabilityPercent: 10
+  - id: 8
+    eggType: blue
+    dominantStat: 3
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 105
+      probabilityPercent: 70
+    - formId: 103
+      probabilityPercent: 27
+    - formId: 104
+      probabilityPercent: 3
+  - id: 9
+    eggType: blue
+    dominantStat: 4
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 103
+      probabilityPercent: 90
+    - formId: 102
+      probabilityPercent: 10
+  - id: 10
+    eggType: blue
+    dominantStat: 4
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 105
+      probabilityPercent: 70
+    - formId: 104
+      probabilityPercent: 27
+    - formId: 101
+      probabilityPercent: 3
+  - id: 11
+    eggType: red
+    dominantStat: 0
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 201
+      probabilityPercent: 90
+    - formId: 202
+      probabilityPercent: 10
+  - id: 12
+    eggType: red
+    dominantStat: 0
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 201
+      probabilityPercent: 70
+    - formId: 202
+      probabilityPercent: 27
+    - formId: 203
+      probabilityPercent: 3
+  - id: 13
+    eggType: red
+    dominantStat: 1
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 201
+      probabilityPercent: 90
+    - formId: 203
+      probabilityPercent: 10
+  - id: 14
+    eggType: red
+    dominantStat: 1
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 201
+      probabilityPercent: 70
+    - formId: 203
+      probabilityPercent: 27
+    - formId: 202
+      probabilityPercent: 3
+  - id: 15
+    eggType: red
+    dominantStat: 2
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 202
+      probabilityPercent: 90
+    - formId: 201
+      probabilityPercent: 10
+  - id: 16
+    eggType: red
+    dominantStat: 2
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 202
+      probabilityPercent: 70
+    - formId: 201
+      probabilityPercent: 27
+    - formId: 203
+      probabilityPercent: 3
+  - id: 17
+    eggType: red
+    dominantStat: 3
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 202
+      probabilityPercent: 90
+    - formId: 203
+      probabilityPercent: 10
+  - id: 18
+    eggType: red
+    dominantStat: 3
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 202
+      probabilityPercent: 70
+    - formId: 203
+      probabilityPercent: 27
+    - formId: 204
+      probabilityPercent: 3
+  - id: 19
+    eggType: red
+    dominantStat: 4
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 203
+      probabilityPercent: 90
+    - formId: 202
+      probabilityPercent: 10
+  - id: 20
+    eggType: red
+    dominantStat: 4
+    minNurtureLevel: 10
+    outcomes:
+    - formId: 203
+      probabilityPercent: 70
+    - formId: 202
+      probabilityPercent: 27
+    - formId: 204
+      probabilityPercent: 3
+  - id: 21
+    eggType: white
+    dominantStat: 4
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 301
+      probabilityPercent: 70
+    - formId: 302
+      probabilityPercent: 30
+  - id: 22
+    eggType: black
+    dominantStat: 4
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 401
+      probabilityPercent: 70
+    - formId: 402
+      probabilityPercent: 30
+  - id: 23
+    eggType: black
+    dominantStat: 4
+    minNurtureLevel: 5
+    outcomes:
+    - formId: 501
+      probabilityPercent: 70
+    - formId: 502
+      probabilityPercent: 30

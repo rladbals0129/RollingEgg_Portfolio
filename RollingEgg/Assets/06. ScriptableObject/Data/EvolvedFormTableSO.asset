@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a869bbc29635cf49bf16989596ff549, type: 3}
+  m_Name: EvolvedFormTableSO
+  m_EditorClassIdentifier: 
+  rows:
+  - id: 101
+    nameLocKey: evolution_Worker
+    eggType: blue
+    grade: 1
+    duplicateRewardSpecialCurrency: 20
+    icon:
+      m_AssetGUID: 38a8ed458736df7449c435034598d9f3
+      m_SubObjectName: icon_evolution_worker
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 1
+    buffTargetEggType: 
+    buffValuePercent: 1
+  - id: 102
+    nameLocKey: evolution_Chef
+    eggType: blue
+    grade: 2
+    duplicateRewardSpecialCurrency: 30
+    icon:
+      m_AssetGUID: 2976cc5879e100e4e9c1b07a454e80ba
+      m_SubObjectName: icon_evolution_chef
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 1
+    buffTargetEggType: 
+    buffValuePercent: 1
+  - id: 103
+    nameLocKey: evolution_Artist
+    eggType: blue
+    grade: 3
+    duplicateRewardSpecialCurrency: 40
+    icon:
+      m_AssetGUID: 22574dde4553df345b9d9fecc8bc3c6d
+      m_SubObjectName: icon_evolution_artist
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 2
+    buffTargetEggType: blue
+    buffValuePercent: 1
+  - id: 104
+    nameLocKey: evolution_Blacksmith
+    eggType: blue
+    grade: 3
+    duplicateRewardSpecialCurrency: 50
+    icon:
+      m_AssetGUID: fc87fb7b697d8a3408bb351b2ac1552c
+      m_SubObjectName: icon_evolution_blacksmith
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 2
+    buffTargetEggType: blue
+    buffValuePercent: 2
+  - id: 105
+    nameLocKey: evolution_Farmer
+    eggType: blue
+    grade: 2
+    duplicateRewardSpecialCurrency: 60
+    icon:
+      m_AssetGUID: 6beadcbe05c1ce248a06eaf32044d38d
+      m_SubObjectName: icon_evolution_farmer
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 3
+    buffTargetEggType: 
+    buffValuePercent: 2
+  - id: 201
+    nameLocKey: evolution_Fire
+    eggType: red
+    grade: 1
+    duplicateRewardSpecialCurrency: 20
+    icon:
+      m_AssetGUID: c46a49c6740482d43b87edd4218d07e2
+      m_SubObjectName: icon_evolution_fire
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 1
+    buffTargetEggType: 
+    buffValuePercent: 1
+  - id: 202
+    nameLocKey: evolution_Bird
+    eggType: red
+    grade: 2
+    duplicateRewardSpecialCurrency: 30
+    icon:
+      m_AssetGUID: e9e5a1ebed2e5e149812e101b411d6f2
+      m_SubObjectName: icon_evolution_red_bird
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 2
+    buffTargetEggType: red
+    buffValuePercent: 1
+  - id: 203
+    nameLocKey: evolution_Snake
+    eggType: red
+    grade: 3
+    duplicateRewardSpecialCurrency: 40
+    icon:
+      m_AssetGUID: 7378a481787273f419e6687a8633319c
+      m_SubObjectName: icon_evolution_red_snake
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 3
+    buffTargetEggType: 
+    buffValuePercent: 1
+  - id: 204
+    nameLocKey: evolution_Goat
+    eggType: red
+    grade: 4
+    duplicateRewardSpecialCurrency: 50
+    icon:
+      m_AssetGUID: 0b4d5453f9b09d247b3ab19c22421e3c
+      m_SubObjectName: icon_evolution_red_goat
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 3
+    buffTargetEggType: 
+    buffValuePercent: 1
+  - id: 301
+    nameLocKey: evolution_WhiteCat
+    eggType: white
+    grade: 1
+    duplicateRewardSpecialCurrency: 20
+    icon:
+      m_AssetGUID: d3f9fd0962194a743b97d321b8017124
+      m_SubObjectName: icon_evolution_hamster
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 2
+    buffTargetEggType: white
+    buffValuePercent: 1
+  - id: 401
+    nameLocKey: evolution_BlackCat
+    eggType: black
+    grade: 1
+    duplicateRewardSpecialCurrency: 20
+    icon:
+      m_AssetGUID: 71e33ca026f4a8f488931019c1bf2b27
+      m_SubObjectName: icon_evolution_blackcat
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 2
+    buffTargetEggType: black
+    buffValuePercent: 3
+  - id: 501
+    nameLocKey: evolution_Hamster
+    eggType: yellow
+    grade: 1
+    duplicateRewardSpecialCurrency: 20
+    icon:
+      m_AssetGUID: d3f9fd0962194a743b97d321b8017124
+      m_SubObjectName: icon_evolution_hamster
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    buffType: 2
+    buffTargetEggType: yellow
+    buffValuePercent: 1

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 347d57e19137468459fc5a2afcda571e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -263944856029379165
+    second: icon_pc_egg_rolll_0
+  - first:
+      213: 5292156433239426690
+    second: icon_pc_egg_rolll_1
+  - first:
+      213: -4844145676947868188
+    second: icon_pc_egg_rolll_2
+  - first:
+      213: -4922470439658532217
+    second: icon_pc_egg_rolll_3
+  - first:
+      213: 8724261749667677166
+    second: icon_pc_egg_rolll_4
+  - first:
+      213: -6691876617455535435
+    second: icon_pc_egg_rolll_5
+  - first:
+      213: -2636023028956265807
+    second: icon_pc_egg_rolll_6
+  - first:
+      213: -7906070118310869198
+    second: icon_pc_egg_rolll_7
+  - first:
+      213: 2604844494215366062
+    second: icon_pc_egg_rolll_8
+  - first:
+      213: -2995552818064493615
+    second: icon_pc_egg_rolll_9
+  - first:
+      213: -5363837333966898968
+    second: icon_pc_egg_rolll_10
+  - first:
+      213: 2384043413848874738
+    second: icon_pc_egg_rolll_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5c3184d87465cf0800000000000000
+      internalID: -263944856029379165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 9
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286c80bac34817940800000000000000
+      internalID: 5292156433239426690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e537451c2326ccb0800000000000000
+      internalID: -4844145676947868188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782daca273fdfabb0800000000000000
+      internalID: -4922470439658532217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3487496ddc21970800000000000000
+      internalID: 8724261749667677166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 7
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf1d7ebada123a0800000000000000
+      internalID: -6691876617455535435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 8
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2005b7507fa6bd0800000000000000
+      internalID: -2636023028956265807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 10
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23700c49d1ff74290800000000000000
+      internalID: -7906070118310869198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 10
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c6d43444462420800000000000000
+      internalID: 2604844494215366062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 10
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d378554598ad66d0800000000000000
+      internalID: -2995552818064493615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8bce31d52df85b0800000000000000
+      internalID: -5363837333966898968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_pc_egg_rolll_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 7
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe529b8ad2d51120800000000000000
+      internalID: 2384043413848874738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_pc_egg_rolll_0: -263944856029379165
+      icon_pc_egg_rolll_1: 5292156433239426690
+      icon_pc_egg_rolll_10: -5363837333966898968
+      icon_pc_egg_rolll_11: 2384043413848874738
+      icon_pc_egg_rolll_2: -4844145676947868188
+      icon_pc_egg_rolll_3: -4922470439658532217
+      icon_pc_egg_rolll_4: 8724261749667677166
+      icon_pc_egg_rolll_5: -6691876617455535435
+      icon_pc_egg_rolll_6: -2636023028956265807
+      icon_pc_egg_rolll_7: -7906070118310869198
+      icon_pc_egg_rolll_8: 2604844494215366062
+      icon_pc_egg_rolll_9: -2995552818064493615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

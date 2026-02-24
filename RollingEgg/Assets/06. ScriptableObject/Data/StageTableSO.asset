@@ -1,0 +1,1115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41fa121781fee649b08a27d3fa20d8c, type: 3}
+  m_Name: StageTableSO
+  m_EditorClassIdentifier: 
+  rows:
+  - id: 101
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 3432569222329018956, guid: 26610e16942f42044b2a3ec16d6d1545, type: 3}
+    chapterId: 1
+    stageNumber: 1
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 0
+    level: 1
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 102
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 3432569222329018956, guid: a93de6ead63279844927f0d127701297, type: 3}
+    chapterId: 1
+    stageNumber: 2
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 101
+    level: 2
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 103
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 6856720770660155789, guid: 5ee96f9317f4c094b8576168c4dbfa52, type: 3}
+    chapterId: 1
+    stageNumber: 3
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 102
+    level: 2
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 104
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 706284160465961581, guid: 90bb2acea8cf6604a9b77a497094775f, type: 3}
+    chapterId: 1
+    stageNumber: 4
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 103
+    level: 2
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 105
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 1968409977384386061, guid: 6b0725cfb33ac3e4299e37ef166e24bc, type: 3}
+    chapterId: 1
+    stageNumber: 5
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 104
+    level: 3
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 106
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 1
+    stageNumber: 6
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 105
+    level: 3
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 107
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 1
+    stageNumber: 7
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 106
+    level: 4
+    speed: 1.2
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 108
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 1
+    stageNumber: 8
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 107
+    level: 4
+    speed: 1.2
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 109
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 1
+    stageNumber: 9
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 108
+    level: 4
+    speed: 1.2
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 110
+    background: {fileID: 826137807563445320, guid: 35ff76d58413e95429b589a463ba2686, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 1
+    stageNumber: 10
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 109
+    level: 3
+    speed: 1.2
+    hp: 100
+    reduceHP: 1
+    perfectHP: 5
+    greatHP: 3
+    goodHP: 1
+    badHP: -5
+    missHP: -10
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 201
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 1
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 110
+    level: 4
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 202
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 2
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 201
+    level: 4
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 203
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 3
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 202
+    level: 4
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 204
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 4
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 203
+    level: 5
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 205
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 5
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 204
+    level: 5
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 206
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 6
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 205
+    level: 5
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 207
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 7
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 206
+    level: 6
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 208
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 8
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 207
+    level: 6
+    speed: 1.15
+    hp: 100
+    reduceHP: 1.2
+    perfectHP: 4.5
+    greatHP: 2.8
+    goodHP: 1
+    badHP: -6
+    missHP: -12
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 209
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 9
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 208
+    level: 7
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 210
+    background: {fileID: 6178048734570241320, guid: de2967473481295499fc6f3b4adbe01b, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 2
+    stageNumber: 10
+    keyCount: 2
+    keys:
+    - F
+    - J
+    openStageId: 209
+    level: 7
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 2
+  - id: 301
+    background: {fileID: 4956327526244493874, guid: 4417c77c284177b4c8cf2cfa1baf8165, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 1
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 210
+    level: 8
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 302
+    background: {fileID: 4956327526244493874, guid: 4417c77c284177b4c8cf2cfa1baf8165, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 2
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 301
+    level: 8
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 303
+    background: {fileID: 4956327526244493874, guid: 4417c77c284177b4c8cf2cfa1baf8165, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 3
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 302
+    level: 8
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 304
+    background: {fileID: 4956327526244493874, guid: 4417c77c284177b4c8cf2cfa1baf8165, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 4
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 303
+    level: 9
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 305
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 5
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 304
+    level: 9
+    speed: 1.3
+    hp: 100
+    reduceHP: 1.5
+    perfectHP: 4
+    greatHP: 2.6
+    goodHP: 0.8
+    badHP: -7
+    missHP: -14
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 306
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 6
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 305
+    level: 10
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 307
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 7
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 306
+    level: 10
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 308
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 8
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 307
+    level: 10
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 309
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 9
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 308
+    level: 11
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 310
+    background: {fileID: 4956327526244493874, guid: 4417c77c284177b4c8cf2cfa1baf8165, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 3
+    stageNumber: 10
+    keyCount: 3
+    keys:
+    - F
+    - J
+    - K
+    openStageId: 309
+    level: 11
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 3
+  - id: 401
+    background: {fileID: 826137807563445320, guid: 14c71b4618c273746b7c8c529b355218, type: 3}
+    mapPrefab: {fileID: 7005193252879600269, guid: 037bf7c03a10f9249969c406518922e3, type: 3}
+    chapterId: 4
+    stageNumber: 1
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 310
+    level: 12
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 402
+    background: {fileID: 826137807563445320, guid: 14c71b4618c273746b7c8c529b355218, type: 3}
+    mapPrefab: {fileID: 7005193252879600269, guid: 1740da12dc9fbc940a93415b33b3e0a0, type: 3}
+    chapterId: 4
+    stageNumber: 2
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 401
+    level: 12
+    speed: 1.45
+    hp: 100
+    reduceHP: 1.8
+    perfectHP: 3.5
+    greatHP: 2.4
+    goodHP: 0.8
+    badHP: -8
+    missHP: -16
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 403
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 3
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 402
+    level: 13
+    speed: 1.55
+    hp: 100
+    reduceHP: 2.2
+    perfectHP: 3
+    greatHP: 2.2
+    goodHP: 0.5
+    badHP: -9
+    missHP: -18
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 404
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 4
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 403
+    level: 13
+    speed: 1.55
+    hp: 100
+    reduceHP: 2.2
+    perfectHP: 3
+    greatHP: 2.2
+    goodHP: 0.5
+    badHP: -9
+    missHP: -18
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 405
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 5
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 404
+    level: 14
+    speed: 1.55
+    hp: 100
+    reduceHP: 2.2
+    perfectHP: 3
+    greatHP: 2.2
+    goodHP: 0.5
+    badHP: -9
+    missHP: -18
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 406
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 6
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 405
+    level: 14
+    speed: 1.55
+    hp: 100
+    reduceHP: 2.2
+    perfectHP: 3
+    greatHP: 2.2
+    goodHP: 0.5
+    badHP: -9
+    missHP: -18
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 407
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 7
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 406
+    level: 15
+    speed: 1.55
+    hp: 100
+    reduceHP: 2.2
+    perfectHP: 3
+    greatHP: 2.2
+    goodHP: 0.5
+    badHP: -9
+    missHP: -18
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 408
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 8
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 407
+    level: 15
+    speed: 1.55
+    hp: 100
+    reduceHP: 2.2
+    perfectHP: 3
+    greatHP: 2.2
+    goodHP: 0.5
+    badHP: -9
+    missHP: -18
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 409
+    background: {fileID: 826137807563445320, guid: 14c71b4618c273746b7c8c529b355218, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 9
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 408
+    level: 16
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 410
+    background: {fileID: 826137807563445320, guid: 14c71b4618c273746b7c8c529b355218, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 4
+    stageNumber: 10
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 409
+    level: 16
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 501
+    background: {fileID: 8752959438599610065, guid: f41ab75afb65f9c469eb6c0ed77b5183, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 1
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 410
+    level: 16
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 502
+    background: {fileID: 8752959438599610065, guid: f41ab75afb65f9c469eb6c0ed77b5183, type: 3}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 2
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 501
+    level: 16
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 503
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 3
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 502
+    level: 17
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 504
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 4
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 503
+    level: 17
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 505
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 5
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 504
+    level: 18
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 506
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 6
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 505
+    level: 18
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 507
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 7
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 506
+    level: 19
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 508
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 8
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 507
+    level: 19
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 509
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 9
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 508
+    level: 20
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4
+  - id: 510
+    background: {fileID: 0}
+    mapPrefab: {fileID: 0}
+    chapterId: 5
+    stageNumber: 10
+    keyCount: 4
+    keys:
+    - D
+    - F
+    - J
+    - K
+    openStageId: 509
+    level: 20
+    speed: 1.65
+    hp: 100
+    reduceHP: 2.5
+    perfectHP: 2.5
+    greatHP: 2
+    goodHP: 0.5
+    badHP: -10
+    missHP: -20
+    changeColorCooltime: 0
+    cachedKeyCount: 4

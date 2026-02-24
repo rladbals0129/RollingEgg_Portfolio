@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Icons
+  m_EditorClassIdentifier: 
+  m_GroupName: Icons
+  m_GUID: 2e35e4314f42b2d46ba1896135edc450
+  m_SerializeEntries:
+  - m_GUID: 0b4d5453f9b09d247b3ab19c22421e3c
+    m_Address: icon_evolution_red_goat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c569c6938565a14295581d5b819bb2d
+    m_Address: icon_pc_egg_black
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22574dde4553df345b9d9fecc8bc3c6d
+    m_Address: icon_evolution_artist
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2976cc5879e100e4e9c1b07a454e80ba
+    m_Address: icon_evolution_chef
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33cee62c71ce8e94a9049df99f85ceb6
+    m_Address: icon_pc_egg_white
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38a8ed458736df7449c435034598d9f3
+    m_Address: icon_evolution_worker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48c091333febddb45bc30cb3cc6272b5
+    m_Address: icon_evolution_black_cola
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49c42183936ef2e41a5cd3b247381abd
+    m_Address: icon_evolution_black_dog
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cbde5ebd0e8ae04f81de5d5f86c5666
+    m_Address: yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d4def0a79ec0794b9407fa63aa07a50
+    m_Address: icon_evolution_white_common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60202ba71181c8a4d9fcb44134c37220
+    m_Address: icon_currency_yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 618263ea0550c4842885879460771cd7
+    m_Address: icon_currency_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62df33b3576177c4488b36c5738a30ce
+    m_Address: Icon_pc_egg_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 680abadfe30cebe409053347a5b740dc
+    m_Address: icon_currency_black
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6beadcbe05c1ce248a06eaf32044d38d
+    m_Address: icon_evolution_farmer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71e33ca026f4a8f488931019c1bf2b27
+    m_Address: icon_evolution_blackcat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7378a481787273f419e6687a8633319c
+    m_Address: icon_evolution_red_snake
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74a712d06a7b3da459f1217312158c9c
+    m_Address: icon_bubble
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a2bc937abc5f5b4e99112ef3b5d5dbb
+    m_Address: icon_currency_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ff5ac1d8675fc24c9eb5268e6c601ac
+    m_Address: icon_currency_dew
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81a0695dab8f4734a876da79d53537f5
+    m_Address: icon_setting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85dd5f047fe328545b4f4563d613f8c8
+    m_Address: icon_evolution_blue_common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88478e876080fa34eb5031950a0e356c
+    m_Address: icon_pc_egg_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ae59d304a774a8499f7e9a789083383
+    m_Address: icon_evolution_blue_fish
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c00a2fe7b0263a41b0f1265a9df13f5
+    m_Address: icon_pc_egg_yellow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c267d31571fe86746a4122c1914e3d2c
+    m_Address: icon_evolution_black_common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c46a49c6740482d43b87edd4218d07e2
+    m_Address: icon_evolution_fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3f9fd0962194a743b97d321b8017124
+    m_Address: icon_evolution_hamster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d61a1c9833b828248a1a1f09cb5777c5
+    m_Address: icon_evolution_blue_blueberry
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e04a39aaec7851046818d516bfc65ed9
+    m_Address: icon_evolution_red_common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8255e29675bc9843b5253299e44d60b
+    m_Address: icon_currency_white
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9e5a1ebed2e5e149812e101b411d6f2
+    m_Address: icon_evolution_red_bird
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc87fb7b697d8a3408bb351b2ac1552c
+    m_Address: icon_evolution_blacksmith
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdcb4b7f34ac90745af63c474cec638e
+    m_Address: icon_evolution_yellow_common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Evolution
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0965e33eeff0f54892dd431d6e44c30, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d0953c74b66fc474ea669b67a1b4b05d, type: 2}
+    - {fileID: 11400000, guid: 7f34a50ff0b7f484f938405fb5fdaada, type: 2}

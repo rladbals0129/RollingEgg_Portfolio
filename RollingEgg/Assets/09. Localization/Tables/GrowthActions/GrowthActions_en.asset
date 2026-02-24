@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GrowthActions_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a8e695d68bbdcea488bd22e7db92d9a8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8451509743616
+    m_Localized: Feed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10219111084032
+    m_Localized: Take a Walk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10358026432512
+    m_Localized: Sing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12945337380864
+    m_Localized: Read a Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12949393272832
+    m_Localized: Tap the Egg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5846482997243904
+    m_Localized: Put to Sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851331704942592
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851335593062400
+    m_Localized: Pat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851376894373888
+    m_Localized: Training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851449304838144
+    m_Localized: Meditate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851465780064256
+    m_Localized: Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851476685254656
+    m_Localized: Give a Bath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851478799183872
+    m_Localized: Observe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851480376242176
+    m_Localized: Draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851531680968704
+    m_Localized: Starve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851534562455552
+    m_Localized: Neglect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851535166435328
+    m_Localized: Ignore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851583556120576
+    m_Localized: Perform Ritual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851585196093440
+    m_Localized: Interpret Dream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851602782810112
+    m_Localized: Bless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288261574656
+    m_Localized: Yum yum! Delicious~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546176
+    m_Localized: Wow~ It's food!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546177
+    m_Localized: I always seem to be hungry!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546178
+    m_Localized: Warm... So cozy... zzZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546179
+    m_Localized: zzZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546180
+    m_Localized: Snore... Snore...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546181
+    m_Localized: "The breeze feels nice~\u266A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546182
+    m_Localized: Do you like walks?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546183
+    m_Localized: The flower garden smells so nice!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546184
+    m_Localized: I wonder what happens next!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546185
+    m_Localized: How exciting!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546186
+    m_Localized: Will the protagonist be happy?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546187
+    m_Localized: So fun! Let's play more! Yay!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546188
+    m_Localized: Yay~ Oh yeah~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546189
+    m_Localized: I want to play every day!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546190
+    m_Localized: Feels good... So comfortable...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546191
+    m_Localized: Warm touch~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546192
+    m_Localized: Hehe...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546193
+    m_Localized: "Lalala~ I love this song~\u266C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546194
+    m_Localized: Lulu~Lalala~Like a singer, right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546195
+    m_Localized: Rapping now~Hong~Hong~Hong~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546196
+    m_Localized: It's hard but... I'll try! Here I go!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546197
+    m_Localized: Hut! Two! Three!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546198
+    m_Localized: Hut! Two! Three!...That's enough now...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546199
+    m_Localized: ....... (Quietly concentrating)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546200
+    m_Localized: Ommmmm....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546201
+    m_Localized: Snore... Snore...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546202
+    m_Localized: I feel like the wind!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546203
+    m_Localized: It's hard!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546204
+    m_Localized: So refreshing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546205
+    m_Localized: Feeling clean! So fresh!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546206
+    m_Localized: Tickles!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546207
+    m_Localized: Smells nice!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546208
+    m_Localized: Think you found something out?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546209
+    m_Localized: Please stop staring!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546210
+    m_Localized: Embarrassing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546211
+    m_Localized: The colors are so pretty... I like it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546212
+    m_Localized: I think I have talent!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546213
+    m_Localized: Look at this~!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546214
+    m_Localized: I'm hungry... Grumble...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546215
+    m_Localized: Feels like my soul is gone..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546216
+    m_Localized: Goodbye~!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546217
+    m_Localized: Ahhh! I'm not ready to come out yet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546218
+    m_Localized: It hurts~!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546219
+    m_Localized: Ahhh! I think it cracked a bit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546220
+    m_Localized: Um... You didn't forget me...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546221
+    m_Localized: That's too much
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546222
+    m_Localized: I'm bored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546223
+    m_Localized: I got used to being alone...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546224
+    m_Localized: Can you hear~ me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546225
+    m_Localized: ?????????????????
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546226
+    m_Localized: Something... I feel a strong power...!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546227
+    m_Localized: Ritual~ chant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546228
+    m_Localized: Ritual ritual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546229
+    m_Localized: Are you looking into my dreams...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546230
+    m_Localized: Interpretation matters more than the dream~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546231
+    m_Localized: Snore... Snore...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546232
+    m_Localized: I feel like I became someone special... Thank you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546233
+    m_Localized: The sun embraces me~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546234
+    m_Localized: With the power of blessing~!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

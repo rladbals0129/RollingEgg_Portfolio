@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Evolution_ko-KR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko-KR
+  m_SharedData: {fileID: 11400000, guid: a48bae6d145ba594f9f2fa254c44b602, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7561247360449249396
+  m_TableData:
+  - m_Id: 20132425728
+    m_Localized: "\uC9C4\uD654"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56098582528
+    m_Localized: "\uC54C\uC5D0 \uD070 \uBCC0\uD654\uAC00 \uC0DD\uAE38 \uAC83 \uAC19\uC544\uC694!\\n\uC9C0\uAE08
+      \uC9C4\uD654\uC5D0 \uB3C4\uC804\uD560\uAE4C\uC694?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58548056064
+    m_Localized: "\uC9C0\uAE08 \uC548 \uD560\uB798\uC694"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60590682112
+    m_Localized: "\uC9C0\uAE08 \uC9C4\uD654\uD558\uC790!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62608142336
+    m_Localized: "\uC9C4\uD654 \uC644\uB8CC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67607752704
+    m_Localized: "\uC0C8\uB85C\uC6B4 \uC9C4\uD654\uCCB4\uB97C \uD68D\uB4DD\uD558\uC5EC\\n\uB3C4\uAC10\uC5D0
+      \uB4F1\uB85D\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69721681920
+    m_Localized: "\uC911\uBCF5 \uC9C4\uD654\uCCB4\uB97C \uD68D\uB4DD\uD558\uC5EC\\n{RewardAmount}\uAC1C\uB97C
+      \uD68D\uB4DD\uD558\uC600\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249396
+  - m_Id: 64784986112
+    m_Localized: "\uC548\uB155 \uB098\uB294 {FormName}!"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249396
+  - m_Id: 4175383261184
+    m_Localized: "\uC608\uC0C1 \uC9C4\uD654 \uACB0\uACFC"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247360449249396
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 69721681920
+        - id: 64784986112

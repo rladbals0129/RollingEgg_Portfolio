@@ -1,0 +1,547 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dcfbdf8a06443545b16e59c24fb7a7a, type: 3}
+  m_Name: GrowthConditionPoolSO
+  m_EditorClassIdentifier: 
+  rows:
+  - id: 1
+    nameLocKey: action_feed
+    costCommon: 50
+    costSpecial: 0
+    statIncrements:
+    - stat: 1
+      amount: 30
+    - stat: 2
+      amount: 5
+    - stat: 4
+      amount: 30
+    line1: action_feed_bubble01
+    line2: action_feed_bubble02
+    line3: action_feed_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 19
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 2
+    nameLocKey: action_sleep
+    costCommon: 0
+    costSpecial: 50
+    statIncrements:
+    - stat: 1
+      amount: 10
+    - stat: 3
+      amount: 10
+    - stat: 4
+      amount: 10
+    line1: action_sleep_bubble01
+    line2: action_sleep_bubble02
+    line3: action_sleep_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 18
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 3
+    nameLocKey: action_walk
+    costCommon: 40
+    costSpecial: 20
+    statIncrements:
+    - stat: 0
+      amount: 4
+    - stat: 1
+      amount: 2
+    - stat: 2
+      amount: 6
+    - stat: 3
+      amount: 2
+    line1: action_walk_bubble01
+    line2: action_walk_bubble02
+    line3: action_walk_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 3
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 4
+    nameLocKey: action_read
+    costCommon: 30
+    costSpecial: 30
+    statIncrements:
+    - stat: 1
+      amount: 8
+    - stat: 3
+      amount: 2
+    - stat: 4
+      amount: 2
+    line1: action_read_bubble01
+    line2: action_read_bubble02
+    line3: action_read_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 17
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 5
+    nameLocKey: action_play
+    costCommon: 60
+    costSpecial: 0
+    statIncrements:
+    - stat: 0
+      amount: 5
+    - stat: 2
+      amount: 8
+    line1: action_play_bubble01
+    line2: action_play_bubble02
+    line3: action_play_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 20
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 6
+    nameLocKey: action_pat
+    costCommon: 20
+    costSpecial: 10
+    statIncrements:
+    - stat: 2
+      amount: 2
+    - stat: 3
+      amount: 8
+    - stat: 4
+      amount: 3
+    line1: action_pat_bubble01
+    line2: action_pat_bubble02
+    line3: action_pat_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 16
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 7
+    nameLocKey: action_sing
+    costCommon: 10
+    costSpecial: 40
+    statIncrements:
+    - stat: 0
+      amount: 1
+    - stat: 1
+      amount: 3
+    - stat: 2
+      amount: 3
+    - stat: 3
+      amount: 5
+    - stat: 4
+      amount: 5
+    line1: action_sing_bubble01
+    line2: action_sing_bubble02
+    line3: action_sing_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 15
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 8
+    nameLocKey: action_train
+    costCommon: 80
+    costSpecial: 40
+    statIncrements:
+    - stat: 0
+      amount: 12
+    - stat: 2
+      amount: 4
+    line1: action_train_bubble01
+    line2: action_train_bubble02
+    line3: action_train_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 14
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 9
+    nameLocKey: action_meditate
+    costCommon: 30
+    costSpecial: 60
+    statIncrements:
+    - stat: 1
+      amount: 10
+    - stat: 3
+      amount: 6
+    line1: action_meditate_bubble01
+    line2: action_meditate_bubble02
+    line3: action_meditate_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 12
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 10
+    nameLocKey: action_run
+    costCommon: 70
+    costSpecial: 20
+    statIncrements:
+    - stat: 0
+      amount: 6
+    - stat: 2
+      amount: 12
+    line1: action_run_bubble01
+    line2: action_run_bubble02
+    line3: action_run_bubble03
+    minLevel: 1
+    maxLevel: 30
+    weight: 13
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 11
+    nameLocKey: action_bath
+    costCommon: 40
+    costSpecial: 30
+    statIncrements:
+    - stat: 1
+      amount: 2
+    - stat: 2
+      amount: 3
+    - stat: 3
+      amount: 10
+    line1: action_bath_bubble01
+    line2: action_bath_bubble02
+    line3: action_bath_bubble03
+    minLevel: 5
+    maxLevel: 30
+    weight: 11
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 12
+    nameLocKey: action_observe
+    costCommon: 20
+    costSpecial: 50
+    statIncrements:
+    - stat: 1
+      amount: 8
+    - stat: 3
+      amount: 3
+    - stat: 4
+      amount: 6
+    line1: action_observe_bubble01
+    line2: action_observe_bubble02
+    line3: action_observe_bubble03
+    minLevel: 5
+    maxLevel: 30
+    weight: 9
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 13
+    nameLocKey: action_draw
+    costCommon: 50
+    costSpecial: 50
+    statIncrements:
+    - stat: 0
+      amount: 2
+    - stat: 1
+      amount: 6
+    - stat: 3
+      amount: 4
+    - stat: 4
+      amount: 4
+    line1: action_draw_bubble01
+    line2: action_draw_bubble02
+    line3: action_draw_bubble03
+    minLevel: 5
+    maxLevel: 30
+    weight: 10
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 14
+    nameLocKey: action_starve
+    costCommon: 5
+    costSpecial: 0
+    statIncrements:
+    - stat: 0
+      amount: 8
+    - stat: 2
+      amount: -5
+    - stat: 3
+      amount: -3
+    - stat: 4
+      amount: 2
+    line1: action_starve_bubble01
+    line2: action_starve_bubble02
+    line3: action_starve_bubble03
+    minLevel: 5
+    maxLevel: 30
+    weight: 8
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 15
+    nameLocKey: action_hit
+    costCommon: 10
+    costSpecial: 5
+    statIncrements:
+    - stat: 0
+      amount: 15
+    - stat: 1
+      amount: -2
+    - stat: 3
+      amount: -5
+    line1: action_hit_bubble01
+    line2: action_hit_bubble02
+    line3: action_hit_bubble03
+    minLevel: 5
+    maxLevel: 30
+    weight: 7
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 16
+    nameLocKey: action_neglect
+    costCommon: 0
+    costSpecial: 0
+    statIncrements:
+    - stat: 1
+      amount: 3
+    - stat: 2
+      amount: -8
+    - stat: 4
+      amount: 5
+    line1: action_neglect_bubble01
+    line2: action_neglect_bubble02
+    line3: action_neglect_bubble03
+    minLevel: 10
+    maxLevel: 30
+    weight: 2
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 17
+    nameLocKey: action_ignore
+    costCommon: 0
+    costSpecial: 10
+    statIncrements:
+    - stat: 0
+      amount: -3
+    - stat: 1
+      amount: 5
+    - stat: 2
+      amount: -2
+    - stat: 3
+      amount: -5
+    - stat: 4
+      amount: 8
+    line1: action_ignore_bubble01
+    line2: action_ignore_bubble02
+    line3: action_ignore_bubble03
+    minLevel: 10
+    maxLevel: 30
+    weight: 1
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 18
+    nameLocKey: action_ritual
+    costCommon: 100
+    costSpecial: 100
+    statIncrements:
+    - stat: 0
+      amount: 5
+    - stat: 1
+      amount: 5
+    - stat: 2
+      amount: 5
+    - stat: 3
+      amount: 5
+    - stat: 4
+      amount: 15
+    line1: action_ritual_bubble01
+    line2: action_ritual_bubble02
+    line3: action_ritual_bubble03
+    minLevel: 10
+    maxLevel: 30
+    weight: 6
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 19
+    nameLocKey: action_dream
+    costCommon: 50
+    costSpecial: 80
+    statIncrements:
+    - stat: 1
+      amount: 12
+    - stat: 4
+      amount: 12
+    line1: action_dream_bubble01
+    line2: action_dream_bubble02
+    line3: action_dream_bubble03
+    minLevel: 10
+    maxLevel: 30
+    weight: 5
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0
+  - id: 20
+    nameLocKey: action_bless
+    costCommon: 80
+    costSpecial: 80
+    statIncrements:
+    - stat: 0
+      amount: 6
+    - stat: 1
+      amount: 6
+    - stat: 2
+      amount: 6
+    - stat: 3
+      amount: 6
+    - stat: 4
+      amount: 6
+    line1: action_bless_bubble01
+    line2: action_bless_bubble02
+    line3: action_bless_bubble03
+    minLevel: 20
+    maxLevel: 30
+    weight: 4
+    rarity: 0
+    icon:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    exclusiveWith: 
+    cooldownTurns: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BackGround
+  m_EditorClassIdentifier: 
+  m_GroupName: BackGround
+  m_GUID: aff89709283d8c542a7fba376671e621
+  m_SerializeEntries:
+  - m_GUID: 05c45b4c71a865447a5609d251d3f54c
+    m_Address: bg_nurture 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 568c805d02f9d6549b1a3d1f98dd8df0
+    m_Address: bg_nurture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0965e33eeff0f54892dd431d6e44c30, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 752c2010c790c604bbf1ca9be28e1fb0, type: 2}
+    - {fileID: 11400000, guid: 3b63ff1731da29f4d9ff20dfbbca8663, type: 2}

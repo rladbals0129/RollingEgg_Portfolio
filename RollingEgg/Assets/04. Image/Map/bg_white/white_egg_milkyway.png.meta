@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 9a4ba98b146e90142b5e230725d64718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7240332367344443692
+    second: white_egg_milkyway_0
+  - first:
+      213: -514394820522415340
+    second: white_egg_milkyway_1
+  - first:
+      213: 8172509606277224588
+    second: white_egg_milkyway_2
+  - first:
+      213: -6365648370724948980
+    second: white_egg_milkyway_3
+  - first:
+      213: -8665979663637681777
+    second: white_egg_milkyway_4
+  - first:
+      213: 4831006137272881747
+    second: white_egg_milkyway_5
+  - first:
+      213: 5319322789078862892
+    second: white_egg_milkyway_6
+  - first:
+      213: 8206722372569388113
+    second: white_egg_milkyway_7
+  - first:
+      213: -8199008847923441263
+    second: white_egg_milkyway_8
+  - first:
+      213: 1536775977382198431
+    second: white_egg_milkyway_9
+  - first:
+      213: -7104782099454754837
+    second: white_egg_milkyway_10
+  - first:
+      213: 7907852750673398662
+    second: white_egg_milkyway_11
+  - first:
+      213: -4171153336715456830
+    second: white_egg_milkyway_12
+  - first:
+      213: -1071621816248236126
+    second: white_egg_milkyway_13
+  - first:
+      213: -5860905074289068669
+    second: white_egg_milkyway_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white_egg_milkyway_0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21245b5de3da7460800000000000000
+      internalID: 7240332367344443692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 215
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be578d2a08cd8f0800000000000000
+      internalID: -514394820522415340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 221
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c881f95ef269a6170800000000000000
+      internalID: 8172509606277224588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 226
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0435e1988ca8a7a0800000000000000
+      internalID: -6365648370724948980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 207
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89ed1609614cb780800000000000000
+      internalID: -8665979663637681777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352d1ef6c7e2b0340800000000000000
+      internalID: 4831006137272881747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c8fa8c4e702d940800000000000000
+      internalID: 5319322789078862892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 206
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154df3b448224e170800000000000000
+      internalID: 8206722372569388113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 218
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1911d3d94e4473e80800000000000000
+      internalID: -8199008847923441263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 196
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c3837fb99b35510800000000000000
+      internalID: 1536775977382198431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 202
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beff173c25eb66d90800000000000000
+      internalID: -7104782099454754837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bcbfbdd265ebd60800000000000000
+      internalID: 7907852750673398662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec365d3261d16c0800000000000000
+      internalID: -4171153336715456830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 171
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a707f4c2a5d021f0800000000000000
+      internalID: -1071621816248236126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_egg_milkyway_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 177
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38537b823e1e9aea0800000000000000
+      internalID: -5860905074289068669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      white_egg_milkyway_0: 7240332367344443692
+      white_egg_milkyway_1: -514394820522415340
+      white_egg_milkyway_10: -7104782099454754837
+      white_egg_milkyway_11: 7907852750673398662
+      white_egg_milkyway_12: -4171153336715456830
+      white_egg_milkyway_13: -1071621816248236126
+      white_egg_milkyway_14: -5860905074289068669
+      white_egg_milkyway_2: 8172509606277224588
+      white_egg_milkyway_3: -6365648370724948980
+      white_egg_milkyway_4: -8665979663637681777
+      white_egg_milkyway_5: 4831006137272881747
+      white_egg_milkyway_6: 5319322789078862892
+      white_egg_milkyway_7: 8206722372569388113
+      white_egg_milkyway_8: -8199008847923441263
+      white_egg_milkyway_9: 1536775977382198431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

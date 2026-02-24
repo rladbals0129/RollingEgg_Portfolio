@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Collection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e8afa273351e2104c9ce5426f7d7f17d, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7561247360449249387
+  m_TableData:
+  - m_Id: 675572117504
+    m_Localized: Raised {EggName} and it became {EvolvedName}{ParticleSubject}.
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249387
+  - m_Id: 678424244224
+    m_Localized: Evolution form not yet acquired.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 681712578560
+    m_Localized: No buffs applied.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7112679518208
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7178546868224
+    m_Localized: Common Currency Gain +{Value}%
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249387
+  - m_Id: 7181935865856
+    m_Localized: '{ColorLabel} Exclusive Currency Gain +{Value}%'
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249387
+  - m_Id: 13303732269056
+    m_Localized: Duplicate Reward Currency +{Value}%
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249387
+  - m_Id: 13991094808576
+    m_Localized: Black
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13977643675648
+    m_Localized: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13462545395712
+    m_Localized: Exclusive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13980793597952
+    m_Localized: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13982672646144
+    m_Localized: White
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14051194990592
+    m_Localized: Yellow
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247360449249387
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 675572117504
+        - id: 13303732269056
+        - id: 7178546868224
+        - id: 7181935865856

@@ -1,0 +1,348 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GrowthActions Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GrowthActions
+  m_TableCollectionNameGuidString: a8e695d68bbdcea488bd22e7db92d9a8
+  m_Entries:
+  - m_Id: 8451509743616
+    m_Key: action_feed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10219111084032
+    m_Key: action_walk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10358026432512
+    m_Key: action_sing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12945337380864
+    m_Key: action_read
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12949393272832
+    m_Key: action_hit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5846482997243904
+    m_Key: action_sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851331704942592
+    m_Key: action_play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851335593062400
+    m_Key: action_pat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851376894373888
+    m_Key: action_train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851449304838144
+    m_Key: action_meditate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851465780064256
+    m_Key: action_run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851476685254656
+    m_Key: action_bath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851478799183872
+    m_Key: action_observe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851480376242176
+    m_Key: action_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851531680968704
+    m_Key: action_starve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851534562455552
+    m_Key: action_neglect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851535166435328
+    m_Key: action_ignore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851583556120576
+    m_Key: action_ritual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851585196093440
+    m_Key: action_dream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5851602782810112
+    m_Key: action_bless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288261574656
+    m_Key: action_feed_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546176
+    m_Key: action_feed_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546177
+    m_Key: action_feed_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546178
+    m_Key: action_sleep_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546179
+    m_Key: action_sleep_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546180
+    m_Key: action_sleep_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546181
+    m_Key: action_walk_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546182
+    m_Key: action_walk_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546183
+    m_Key: action_walk_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546184
+    m_Key: action_read_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546185
+    m_Key: action_read_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546186
+    m_Key: action_read_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546187
+    m_Key: action_play_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546188
+    m_Key: action_play_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546189
+    m_Key: action_play_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546190
+    m_Key: action_pat_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546191
+    m_Key: action_pat_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546192
+    m_Key: action_pat_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546193
+    m_Key: action_sing_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546194
+    m_Key: action_sing_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546195
+    m_Key: action_sing_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546196
+    m_Key: action_train_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546197
+    m_Key: action_train_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546198
+    m_Key: action_train_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546199
+    m_Key: action_meditate_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546200
+    m_Key: action_meditate_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546201
+    m_Key: action_meditate_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546202
+    m_Key: action_run_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546203
+    m_Key: action_run_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546204
+    m_Key: action_run_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546205
+    m_Key: action_bath_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546206
+    m_Key: action_bath_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546207
+    m_Key: action_bath_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546208
+    m_Key: action_observe_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546209
+    m_Key: action_observe_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546210
+    m_Key: action_observe_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546211
+    m_Key: action_draw_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546212
+    m_Key: action_draw_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546213
+    m_Key: action_draw_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546214
+    m_Key: action_starve_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546215
+    m_Key: action_starve_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546216
+    m_Key: action_starve_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546217
+    m_Key: action_hit_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546218
+    m_Key: action_hit_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546219
+    m_Key: action_hit_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546220
+    m_Key: action_neglect_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546221
+    m_Key: action_neglect_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546222
+    m_Key: action_neglect_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546223
+    m_Key: action_ignore_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546224
+    m_Key: action_ignore_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546225
+    m_Key: action_ignore_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546226
+    m_Key: action_ritual_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546227
+    m_Key: action_ritual_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546228
+    m_Key: action_ritual_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546229
+    m_Key: action_dream_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546230
+    m_Key: action_dream_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546231
+    m_Key: action_dream_bubble03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546232
+    m_Key: action_bless_bubble01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546233
+    m_Key: action_bless_bubble02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8382288282546234
+    m_Key: action_bless_bubble03
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3691465608772976918
+  references:
+    version: 2
+    RefIds:
+    - rid: 3691465608772976918
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1760937051881

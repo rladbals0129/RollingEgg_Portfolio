@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Collection_ko-KR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko-KR
+  m_SharedData: {fileID: 11400000, guid: e8afa273351e2104c9ce5426f7d7f17d, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7561247360449249386
+  m_TableData:
+  - m_Id: 675572117504
+    m_Localized: "{EggName}\uC744 \uD0A4\uC6E0\uB354\uB2C8 {EvolvedName}{ParticleSubject}
+      \uB418\uC5C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249386
+  - m_Id: 678424244224
+    m_Localized: "\uC544\uC9C1 \uD68D\uB4DD\uD558\uC9C0 \uBABB\uD55C \uC9C4\uD654\uCCB4\uC785\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 681712578560
+    m_Localized: "\uC801\uC6A9\uB41C \uBC84\uD504\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7112679518208
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7178546868224
+    m_Localized: "\uACF5\uC6A9 \uC7AC\uD654 \uD68D\uB4DD\uB7C9 {Value}"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249386
+  - m_Id: 7181935865856
+    m_Localized: "{ColorLabel} \uC804\uC6A9 \uC7AC\uD654 \uD68D\uB4DD\uB7C9 {Value}"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249386
+  - m_Id: 13303732269056
+    m_Localized: "\uC911\uBCF5 \uBCF4\uC0C1 \uC7AC\uD654 {Value}"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249386
+  - m_Id: 13991094808576
+    m_Localized: "\uAC80\uC740"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13977643675648
+    m_Localized: "\uD30C\uB780"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13462545395712
+    m_Localized: "\uC804\uC6A9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13980793597952
+    m_Localized: "\uBE68\uAC04"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13982672646144
+    m_Localized: "\uD558\uC580"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14051194990592
+    m_Localized: "\uB178\uB780"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247360449249386
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 675572117504
+        - id: 13303732269056
+        - id: 7178546868224
+        - id: 7181935865856

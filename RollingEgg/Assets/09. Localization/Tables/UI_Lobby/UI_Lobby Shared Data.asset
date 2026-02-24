@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Lobby Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Lobby
+  m_TableCollectionNameGuidString: 6befdb5fe70b2154fa6c16e9f1b2123a
+  m_Entries:
+  - m_Id: 289691955200
+    m_Key: Start_Running
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416296357888
+    m_Key: Start_Nurture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12937074601984
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7561247002216104024
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247002216104024
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1762236383347

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Eggs
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: fae0415a8bc6f284dbc7fca235a64b09, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0d59a7f2d3129404dbc827fb21822e4b, type: 2}
+  - {fileID: 11400000, guid: b4df9a3fb58c85441b09a756ffe7d92b, type: 2}
+  - {fileID: 11400000, guid: 917a8f8e271058a4c95bd2bfc3fabe21, type: 2}
+  - {fileID: 11400000, guid: f90d7fe1a1c386b4786275a461c75da6, type: 2}
+  - {fileID: 11400000, guid: f1d654ce76a9d224687afb6dfddbcb60, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

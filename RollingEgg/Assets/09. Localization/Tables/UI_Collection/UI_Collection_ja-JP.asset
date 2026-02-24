@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Collection_ja-JP
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja-JP
+  m_SharedData: {fileID: 11400000, guid: e8afa273351e2104c9ce5426f7d7f17d, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7561247360449249390
+  m_TableData:
+  - m_Id: 675572117504
+    m_Localized: "{EggName}\u3092\u80B2\u3066\u305F\u3089{EvolvedName}{ParticleSubject}\u306B\u306A\u3063\u305F\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249390
+  - m_Id: 678424244224
+    m_Localized: "\u307E\u3060\u7372\u5F97\u3057\u3066\u3044\u306A\u3044\u9032\u5316\u4F53\u3067\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 681712578560
+    m_Localized: "\u9069\u7528\u3055\u308C\u305F\u30D0\u30D5\u304C\u3042\u308A\u307E\u305B\u3093\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7112679518208
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7178546868224
+    m_Localized: "\u5171\u901A\u8CC7\u6E90\u7372\u5F97\u91CF +{Value}%"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249390
+  - m_Id: 7181935865856
+    m_Localized: "{ColorLabel} \u5C02\u7528\u8CC7\u6E90\u7372\u5F97\u91CF +{Value}%"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249390
+  - m_Id: 13303732269056
+    m_Localized: "\u91CD\u8907\u5831\u916C\u8CC7\u6E90 +{Value}%"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249390
+  - m_Id: 13991094808576
+    m_Localized: "\u9ED2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13977643675648
+    m_Localized: "\u9752"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13462545395712
+    m_Localized: "\u5C02\u7528"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13980793597952
+    m_Localized: "\u8D64"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13982672646144
+    m_Localized: "\u767D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14051194990592
+    m_Localized: "\u9EC4"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247360449249390
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 675572117504
+        - id: 13303732269056
+        - id: 7178546868224
+        - id: 7181935865856

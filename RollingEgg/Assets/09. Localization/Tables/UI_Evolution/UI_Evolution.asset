@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: UI_Evolution
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a48bae6d145ba594f9f2fa254c44b602, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 2e46855c1741aba4b95cbf494fd6c5cb, type: 2}
+  - {fileID: 11400000, guid: 3e9b9faf04401fb49bc886dd104ef319, type: 2}
+  - {fileID: 11400000, guid: 715d90f98e5b18145bcdc7c75cc51447, type: 2}
+  - {fileID: 11400000, guid: a5017259687c55c47b1c303995c8f1de, type: 2}
+  - {fileID: 11400000, guid: 93087dfc0ad81494d8919d8b73ee70af, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

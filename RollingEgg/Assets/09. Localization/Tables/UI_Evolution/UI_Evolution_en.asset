@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Evolution_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a48bae6d145ba594f9f2fa254c44b602, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7561247360449249397
+  m_TableData:
+  - m_Id: 20132425728
+    m_Localized: Evolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56098582528
+    m_Localized: Something big is about to happen to the egg!\nShall we try evolution
+      now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58548056064
+    m_Localized: Not Now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60590682112
+    m_Localized: Evolve Now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62608142336
+    m_Localized: Evolution Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67607752704
+    m_Localized: New evolution form acquired\nand registered in collection.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69721681920
+    m_Localized: Duplicate evolution form acquired\nReceived {RewardAmount}.
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249397
+  - m_Id: 64784986112
+    m_Localized: Hello, I am {FormName}!
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249397
+  - m_Id: 4175383261184
+    m_Localized: Expected Evolution Result
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247360449249397
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 69721681920
+        - id: 64784986112

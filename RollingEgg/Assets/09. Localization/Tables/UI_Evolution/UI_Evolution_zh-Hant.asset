@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Evolution_zh-Hant
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: a48bae6d145ba594f9f2fa254c44b602, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7561247360449249398
+  m_TableData:
+  - m_Id: 20132425728
+    m_Localized: "\u9032\u5316"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56098582528
+    m_Localized: "\u86CB\u6703\u6709\u5927\u8B8A\u5316\uFF01\\n\u73FE\u5728\u8981\u6311\u6230\u9032\u5316\u55CE\uFF1F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58548056064
+    m_Localized: "\u73FE\u5728\u4E0D\u60F3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60590682112
+    m_Localized: "\u73FE\u5728\u5C31\u9032\u5316\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62608142336
+    m_Localized: "\u9032\u5316\u5B8C\u6210"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67607752704
+    m_Localized: "\u7372\u5F97\u65B0\u9032\u5316\u9AD4\\n\u5DF2\u767B\u9304\u81F3\u5716\u9451\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69721681920
+    m_Localized: "\u7372\u5F97\u91CD\u8907\u9032\u5316\u9AD4\\n\u5DF2\u7372\u5F97{RewardAmount}\u500B\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249398
+  - m_Id: 64784986112
+    m_Localized: "\u4F60\u597D\uFF0C\u6211\u662F{FormName}\uFF01"
+    m_Metadata:
+      m_Items:
+      - rid: 7561247360449249398
+  - m_Id: 4175383261184
+    m_Localized: "\u9810\u60F3\u9032\u5316\u7D50\u679C"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7561247360449249398
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 69721681920
+        - id: 64784986112

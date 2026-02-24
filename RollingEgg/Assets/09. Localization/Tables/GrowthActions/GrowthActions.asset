@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: GrowthActions
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a8e695d68bbdcea488bd22e7db92d9a8, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: bae3c2c7a54dca742a72d0f0b4979064, type: 2}
+  - {fileID: 11400000, guid: 72435e7e86bd0214c822ae22467df117, type: 2}
+  - {fileID: 11400000, guid: d9fea596979c0d349a8b6cebf7c5cee2, type: 2}
+  - {fileID: 11400000, guid: da0dc10716568374396c167687b56cf2, type: 2}
+  - {fileID: 11400000, guid: 30b1da47be55ad249a7f0e362118b0f9, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

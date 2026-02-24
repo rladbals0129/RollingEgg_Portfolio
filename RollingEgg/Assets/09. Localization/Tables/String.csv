@@ -1,0 +1,178 @@
+﻿StringTable,Key,ko-KR,en,zh_Hant,zh_Hans,Japan
+Eggs,egg_blue,파란알,Blue Egg,藍蛋,蓝蛋,青いたまご
+Eggs,egg_white,하얀알,White Egg,白蛋,白蛋,白いたまご
+Eggs,egg_black,검은알,Black Egg,黑蛋,黑蛋,黒いたまご
+Eggs,egg_red,빨간알,Red Egg,紅蛋,红蛋,赤いたまご
+Eggs,egg_yellow,노란알,Yellow Egg,黃蛋,黄蛋,黄色いたまご
+EvolvedForm,evolution_Worker,직장인,Office Worker,上班族,上班族,会社員
+EvolvedForm,evolution_Worker_Speech,나는야 직장인!,I am an Office Worker!,我是上班族！,我是上班族！,私は会社員だ！
+EvolvedForm,evolution_Chef,요리사,Chef,廚師,厨师,シェフ
+EvolvedForm,evolution_Chef_Speech,나는야 요리사!,I am a Chef!,我是廚師！,我是厨师！,私はシェフだ！
+EvolvedForm,evolution_Artist,화가,Artist,畫家,画家,画家
+EvolvedForm,evolution_Artist_Speech,나는야 화가!,I am an Artist!,我是畫家！,我是画家！,私は画家だ！
+EvolvedForm,evolution_Blacksmith,대장장이,Blacksmith,鐵匠,铁匠,鍛冶屋
+EvolvedForm,evolution_Blacksmith_Speech,나는 대장장이란다!,I am a Blacksmith!,我是鐵匠！,我是铁匠！,私は鍛冶屋だ！
+EvolvedForm,evolution_Farmer,농부,Farmer,農夫,农夫,農夫
+EvolvedForm,evolution_Farmer_Speech,농부다 농부 농부,Farmer farmer farmer,農夫農夫農夫,农夫农夫农夫,農夫だ農夫農夫
+EvolvedForm,evolution_Fire,불의 정령,Fire Spirit,火之精靈,火之精灵,火の精霊
+EvolvedForm,evolution_Fire_Speech,나는 불의 정령이야!,I am a Fire Spirit!,我是火之精靈！,我是火之精灵！,私は火の精霊だ！
+EvolvedForm,evolution_Bird,새,Bird,鳥,鸟,鳥
+EvolvedForm,evolution_Bird_Speech,나는 새야~!,I am a bird~!,我是鳥~！,我是鸟~！,私は鳥だ~！
+EvolvedForm,evolution_Snake,뱀,Snake,蛇,蛇,蛇
+EvolvedForm,evolution_Snake_Speech,나는 뱀이다아~,I am a snake~,我是蛇啊~,我是蛇啊~,私は蛇だ~
+EvolvedForm,evolution_Goat,염소,Goat,山羊,山羊,ヤギ
+EvolvedForm,evolution_Goat_Speech,음메에에에에,Maaaaaaa,咩咩咩咩咩,咩咩咩咩咩,メェェェェェ
+EvolvedForm,evolution_WhiteCat,하얀 고양이,White Cat,白貓,白猫,白い猫
+EvolvedForm,evolution_WhiteCat_Speech,나는 하얀 고양이~,I am a White Cat~,我是白貓~,我是白猫~,私は白い猫だ~
+EvolvedForm,evolution_Ghost,유령,Ghost,幽靈,幽灵,幽霊
+EvolvedForm,evolution_Ghost_Speech,나는 유령!,I am a Ghost!,我是幽靈！,我是幽灵！,私は幽霊だ！
+EvolvedForm,evolution_NineTailed,구미호,Nine-Tailed Fox,九尾狐,九尾狐,九尾の狐
+EvolvedForm,evolution_NineTailed _Speech,나는 구미호다!,I am a Nine-Tailed Fox!,我是九尾狐！,我是九尾狐！,私は九尾の狐だ！
+EvolvedForm,evolution_BlackCat,검은 고양이,Black Cat,黑貓,黑猫,黒い猫
+EvolvedForm,evolution_BlackCat_Speech,나는 검은 고양이,I am a Black Cat,我是黑貓,我是黑猫,私は黒い猫だ
+EvolvedForm,evolution_Wolf,늑대,Wolf,狼,狼,オオカミ
+EvolvedForm,evolution_Wolf_Speech,나는야 늑대,I am a Wolf,我是狼,我是狼,私はオオカミだ
+EvolvedForm,evolution_Devil,악마,Devil,惡魔,恶魔,悪魔
+EvolvedForm,evolution_Devil_Speech,나는 악마다!,I am a Devil!,我是惡魔！,我是恶魔！,私は悪魔だ！
+EvolvedForm,evolution_Hamster,햄스터,Hamster,倉鼠,仓鼠,ハムスター
+EvolvedForm,evolution_Hamster_Speech,나는 햄스터!,I am a Hamster!,我是倉鼠！,我是仓鼠！,私はハムスターだ！
+EvolvedForm,evolution_Rabbit,토끼,Rabbit,兔子,兔子,ウサギ
+EvolvedForm,evolution_Rabbit_Speech,나는 토끼,I am a Rabbit,我是兔子,我是兔子,私はウサギだ
+EvolvedForm,evolution_Chick,병아리,Chick,小雞,小鸡,ヒヨコ
+EvolvedForm,evolution_Chick_Speech,나는 병아리,I am a Chick,我是小雞,我是小鸡,私はヒヨコだ
+GrowthActions,action_feed,밥 주기,Feed,餵食,喂食,エサをあげる
+GrowthActions,action_feed_bubble01,냠냠! 맛있어요~,Yum yum! Delicious~,好吃！美味~,好吃！美味~,もぐもぐ！おいしい~
+GrowthActions,action_feed_bubble02,우와~밥이다!,Wow~ It's food!,哇~是飯！,哇~是饭！,わあ~ごはんだ！
+GrowthActions,action_feed_bubble03,항상 배고픈 것 같아요!,I always seem to be hungry!,好像一直都很餓！,好像一直都很饿！,いつもお腹すいてる気がする！
+GrowthActions,action_sleep,재우기,Put to Sleep,睡眠,睡眠,寝かせる
+GrowthActions,action_sleep_bubble01,따뜻해... 포근해요... zzZ,Warm... So cozy... zzZ,溫暖...好舒服...zzZ,温暖...好舒服...zzZ,あったかい...気持ちいい...zzZ
+GrowthActions,action_sleep_bubble02,zzZ,zzZ,zzZ,zzZ,zzZ
+GrowthActions,action_sleep_bubble03,드르렁...드르렁...,Snore... Snore...,呼嚕...呼嚕...,呼噜...呼噜...,グーグー...
+GrowthActions,action_walk,산책하기,Take a Walk,散步,散步,散歩する
+GrowthActions,action_walk_bubble01,바람이 기분 좋아요~♪,The breeze feels nice~♪,風很舒服~♪,风很舒服~♪,風が気持ちいい~♪
+GrowthActions,action_walk_bubble02,산책 좋아하세요?,Do you like walks?,喜歡散步嗎？,喜欢散步吗？,散歩好きですか？
+GrowthActions,action_walk_bubble03,꽃밭의 향기가 너무 좋아요!,The flower garden smells so nice!,花園的香味真好！,花园的香味真好！,花畑の香りがすごくいい！
+GrowthActions,action_read,책 읽기,Read a Book,讀書,读书,本を読む
+GrowthActions,action_read_bubble01,다음 이야기가 궁금해요!,I wonder what happens next!,好奇下個故事！,好奇下个故事！,次のお話が気になります！
+GrowthActions,action_read_bubble02,흥미 진진하네요!,How exciting!,好有趣！,好有趣！,わくわくします！
+GrowthActions,action_read_bubble03,주인공은 행복할까요?,Will the protagonist be happy?,主角會幸福嗎？,主角会幸福吗？,主人公は幸せになるかな？
+GrowthActions,action_play,놀아주기,Play,陪玩,陪玩,遊ぶ
+GrowthActions,action_play_bubble01,신나요! 더 놀아요! 야호!,So fun! Let's play more! Yay!,好開心！再玩！萬歲！,好开心！再玩！万岁！,楽しい！もっと遊ぼう！わーい！
+GrowthActions,action_play_bubble02,야호~오예~,Yay~ Oh yeah~,萬歲~耶~,万岁~耶~,わーい~イェーイ~
+GrowthActions,action_play_bubble03,매일 놀고 싶어요!,I want to play every day!,每天都想玩！,每天都想玩！,毎日遊びたい！
+GrowthActions,action_pat,쓰다듬기,Pat,撫摸,抚摸,なでる
+GrowthActions,action_pat_bubble01,기분 좋아요... 편안해...,Feels good... So comfortable...,好舒服...安心...,好舒服...安心...,気持ちいい...安心...
+GrowthActions,action_pat_bubble02,따뜻한 손길~,Warm touch~,溫暖的撫摸~,温暖的抚摸~,あったかいなでなで~
+GrowthActions,action_pat_bubble03,헤헤...,Hehe...,嘿嘿...,嘿嘿...,へへ...
+GrowthActions,action_sing,노래하기,Sing,唱歌,唱歌,歌う
+GrowthActions,action_sing_bubble01,랄라~ 이 노래 좋아요~♬,Lalala~ I love this song~♬,啦啦~喜歡這首歌~♬,啦啦~喜欢这首歌~♬,ラララ~この歌好き~♬
+GrowthActions,action_sing_bubble02,룰루~랄라~가수 같죠?,"Lulu~Lalala~Like a singer, right?",嚕嚕~啦啦~像歌手吧？,噜噜~啦啦~像歌手吧？,ルル~ラララ~歌手みたいでしょ？
+GrowthActions,action_sing_bubble03,랩을 한다~홍~홍~홍~,Rapping now~Hong~Hong~Hong~,來段饒舌~嗡~嗡~嗡~,来段饶舌~嗡~嗡~嗡~,ラップする~ホン~ホン~ホン~
+GrowthActions,action_train,훈련하기,Training,訓練,训练,トレーニング
+GrowthActions,action_train_bubble01,힘들지만... 해볼게요! 으랏차!,It's hard but... I'll try! Here I go!,雖然累...但我會試試！加油！,虽然累...但我会试试！加油！,大変だけど...やってみる！えいやっ！
+GrowthActions,action_train_bubble02,헛!둘!셋!,Hut! Two! Three!,嘿！二！三！,嘿！二！三！,ハッ！ニー！サン！
+GrowthActions,action_train_bubble03,헛!둘!셋!...이제 그만...,Hut! Two! Three!...That's enough now...,嘿！二！三！...夠了...,嘿！二！三！...够了...,ハッ！ニー！サン！...もういい...
+GrowthActions,action_meditate,명상하기,Meditate,冥想,冥想,瞑想する
+GrowthActions,action_meditate_bubble01,....... (조용히 집중중),....... (Quietly concentrating),.......(安靜專注中),.......(安静专注中),.......(静かに集中中)
+GrowthActions,action_meditate_bubble02,으으으으음....,Ommmmm....,嗯嗯嗯嗯....,嗯嗯嗯嗯....,んんんんん....
+GrowthActions,action_meditate_bubble03,드르렁...드르렁...,Snore... Snore...,呼嚕...呼嚕...,呼噜...呼噜...,グーグー...
+GrowthActions,action_run,달리기,Run,跑步,跑步,走る
+GrowthActions,action_run_bubble01,바람이 되는 기분이에요!,I feel like the wind!,感覺變成了風！,感觉变成了风！,風になった気分！
+GrowthActions,action_run_bubble02,힘들어요!,It's hard!,好累！,好累！,きつい！
+GrowthActions,action_run_bubble03,상쾌하다!,So refreshing!,好爽快！,好爽快！,爽快だ！
+GrowthActions,action_bath,목욕시키기,Give a Bath,洗澡,洗澡,お風呂に入れる
+GrowthActions,action_bath_bubble01,깨끗해지는 느낌! 상쾌해요!,Feeling clean! So fresh!,變乾淨的感覺！好清爽！,变干净的感觉！好清爽！,きれいになる感じ！さっぱり！
+GrowthActions,action_bath_bubble02,간지러워요!,Tickles!,好癢！,好痒！,くすぐったい！
+GrowthActions,action_bath_bubble03,좋은 냄새가 나요!,Smells nice!,好香的味道！,好香的味道！,いい匂いがする！
+GrowthActions,action_observe,관찰하기,Observe,觀察,观察,観察する
+GrowthActions,action_observe_bubble01,뭔가 알아낸 것 같아요?,Think you found something out?,好像發現了什麼？,好像发现了什么？,何か分かったかな？
+GrowthActions,action_observe_bubble02,그만 봐주세요!,Please stop staring!,不要再看了！,不要再看了！,もう見ないで！
+GrowthActions,action_observe_bubble03,부끄럽다!,Embarrassing!,好害羞！,好害羞！,恥ずかしい！
+GrowthActions,action_draw,그림그리기,Draw,畫畫,画画,絵を描く
+GrowthActions,action_draw_bubble01,색깔이 참 예뻐요... 좋아요!,The colors are so pretty... I like it!,顏色真美...喜歡！,颜色真美...喜欢！,色がとてもきれい...いいね！
+GrowthActions,action_draw_bubble02,저 소질있는 것 같아요!,I think I have talent!,我好像有才能！,我好像有才能！,才能あるかも！
+GrowthActions,action_draw_bubble03,이거 보세요~!,Look at this~!,看這個~！,看这个~！,これ見て~！
+GrowthActions,action_starve,굶기기,Starve,挨餓,挨饿,空腹にする
+GrowthActions,action_starve_bubble01,배고파요... 꼬르륵...,I'm hungry... Grumble...,肚子餓...咕嚕咕嚕...,肚子饿...咕噜咕噜...,お腹すいた...グー...
+GrowthActions,action_starve_bubble02,영혼이 사라진 느낌이에요..,Feels like my soul is gone..,感覺靈魂消失了..,感觉灵魂消失了..,魂が抜けた感じ..
+GrowthActions,action_starve_bubble03,안녕히계세요~!,Goodbye~!,再見~！,再见~！,さようなら~！
+GrowthActions,action_hit,두들겨 보기,Tap the Egg,敲敲蛋,敲敲蛋,叩いてみる
+GrowthActions,action_hit_bubble01,으악! 아직 나갈 준비가 안됐어요!,Ahhh! I'm not ready to come out yet!,哇！還沒準備好出去！,哇！还没准备好出去！,うわっ！まだ出る準備できてない！
+GrowthActions,action_hit_bubble02,아픕니다~!,It hurts~!,好痛~！,好痛~！,痛いです~！
+GrowthActions,action_hit_bubble03,으악! 조금 깨진것 같아요!,Ahhh! I think it cracked a bit!,哇！好像有點裂了！,哇！好像有点裂了！,うわっ！ちょっとひび割れたかも！
+GrowthActions,action_neglect,방치하기,Neglect,放置,放置,放置する
+GrowthActions,action_neglect_bubble01,저... 잊으신 건 아니죠...?,Um... You didn't forget me...?,那個...沒忘記我吧...？,那个...没忘记我吧...？,あの...忘れてないよね...？
+GrowthActions,action_neglect_bubble02,너무해,That's too much,太過分了,太过分了,ひどい
+GrowthActions,action_neglect_bubble03,심심해요,I'm bored,好無聊,好无聊,つまらない
+GrowthActions,action_ignore,무시하기,Ignore,無視,无视,無視する
+GrowthActions,action_ignore_bubble01,혼자 있는 게 익숙해졌어요...,I got used to being alone...,習慣了獨處...,习惯了独处...,一人でいるのに慣れちゃった...
+GrowthActions,action_ignore_bubble02,들~리 나요?,Can you hear~ me?,聽~得見嗎？,听~得见吗？,聞こ~えますか？
+GrowthActions,action_ignore_bubble03,?????????????????,?????????????????,?????????????????,?????????????????,?????????????????
+GrowthActions,action_ritual,의식치르기,Perform Ritual,舉行儀式,举行仪式,儀式を執り行う
+GrowthActions,action_ritual_bubble01,뭔가... 강한 힘이 느껴져요...!,Something... I feel a strong power...!,感覺...有股強大的力量...！,感觉...有股强大的力量...！,何か...強い力を感じる...！
+GrowthActions,action_ritual_bubble02,의식~주,Ritual~ chant,儀式~咒,仪式~咒,儀式~呪
+GrowthActions,action_ritual_bubble03,의식의식,Ritual ritual,儀式儀式,仪式仪式,儀式儀式
+GrowthActions,action_dream,꿈해석하기,Interpret Dream,解夢,解梦,夢占いをする
+GrowthActions,action_dream_bubble01,제 꿈속을 들여다보시는 건가요...?,Are you looking into my dreams...?,在窺探我的夢嗎...？,在窥探我的梦吗...？,私の夢を覗いているんですか...？
+GrowthActions,action_dream_bubble02,꿈보다 해몽이지예~,Interpretation matters more than the dream~,解夢更重要呢~,解梦更重要呢~,夢より夢占いだね~
+GrowthActions,action_dream_bubble03,드르렁...드르렁...,Snore... Snore...,呼嚕...呼嚕...,呼噜...呼噜...,グーグー...
+GrowthActions,action_bless,축복하기,Bless,祝福,祝福,祝福する
+GrowthActions,action_bless_bubble01,특별한 존재가 된 것 같아요... 감사해요!,I feel like I became someone special... Thank you!,感覺變成了特別的存在...謝謝！,感觉变成了特别的存在...谢谢！,特別な存在になった気がします...ありがとう！
+GrowthActions,action_bless_bubble02,태양이 나를 감싸네이예~,The sun embraces me~,太陽包圍著我~,太阳包围着我~,太陽が私を包む~
+GrowthActions,action_bless_bubble03,축복의 힘으로~!,With the power of blessing~!,以祝福之力~！,以祝福之力~！,祝福の力で~！
+UI_Lobby,Start_Running,내면 탐구,Inner Exploration,內心探索,内心探索,内面探求
+UI_Lobby,Start_Nurture,육성 하기,Nurture,培育,培育,育成する
+UI_Lobby,Back,돌아가기,Back,返回,返回,戻る
+UI_Title,title_title,굴러가요 알,Rolling Egg,滾動的蛋,滚动的蛋,転がるたまご
+UI_Title,start_game,게임 시작,Start Game,開始遊戲,开始游戏,ゲーム開始
+UI_Title,settings,설정,Settings,設定,设定,設定
+UI_Title,credits,제작진,Credits,製作團隊,制作团队,スタッフ
+UI_Title,quit_game,게임 종료,Quit Game,結束遊戲,结束游戏,ゲーム終了
+Stat,Stat_Courage,용기,Courage,勇氣,勇气,勇気
+Stat,Stat_Wisdom,지성,Wisdom,智慧,智慧,知性
+Stat,Stat_Purity,순수,Purity,純潔,纯洁,純粋
+Stat,Stat_Love,사랑,Love,愛,爱,愛
+Stat,Stat_Chaos,혼돈,Chaos,混沌,混沌,混沌
+UI_Nurture,nurture_back,돌아가기,Back,返回,返回,戻る
+UI_Nurture,nurture_evolution,진화하기,Evolve,進化,进化,進化する
+UI_Nurture,nurture_collection,도감,Collection,圖鑑,图鉴,図鑑
+UI_Evolution,evolution_confirm_title,진화,Evolution,進化,进化,進化
+UI_Evolution,evolution_confirm_message,알에 큰 변화가 생길 것 같아요!\n지금 진화에 도전할까요?,Something big is about to happen to the egg!\nShall we try evolution now?,蛋會有大變化！\n現在要挑戰進化嗎？,蛋会有大变化！\n现在要挑战进化吗？,卵に大きな変化が起きそう！\n今進化に挑戦しますか？
+UI_Evolution,evolution_button_cancel,지금 안 할래요,Not Now,現在不想,现在不想,今はやめておく
+UI_Evolution,evolution_button_confirm,지금 진화하자!,Evolve Now!,現在就進化！,现在就进化！,今進化しよう！
+UI_Evolution,evolution_result_title,진화 완료,Evolution Complete,進化完成,进化完成,進化完了
+UI_Evolution,evolution_form_dialogue,안녕 나는 {FormName}!,"Hello, I am {FormName}!",你好，我是{FormName}！,你好，我是{FormName}！,こんにちは、私は{FormName}！
+UI_Evolution,evolution_result_new,새로운 진화체를 획득하여\n도감에 등록되었습니다.,New evolution form acquired\nand registered in collection.,獲得新進化體\n已登錄至圖鑑。,获得新进化体\n已登录至图鉴。,新しい進化体を獲得して\n図鑑に登録されました。
+UI_Evolution,evolution_result_duplicate,중복 진화체를 획득하여\n{RewardAmount}개를 획득하였습니다.,Duplicate evolution form acquired\nReceived {RewardAmount}.,獲得重複進化體\n已獲得{RewardAmount}個。,获得重复进化体\n已获得{RewardAmount}个。,重複進化体を獲得して\n{RewardAmount}個を獲得しました。
+UI_Evolution,evolution_result_Expected,예상 진화 결과,Expected Evolution Result,預想進化結果,预想进化结果,予想進化結果
+UI_Collection,collection_buff_common_currency,공용 재화 획득량 {Value},Common Currency Gain +{Value}%,通用資源獲得量 +{Value}%,通用资源获得量 +{Value}%,共通資源獲得量 +{Value}%
+UI_Collection,collection_buff_duplicate_reward,중복 보상 재화 {Value},Duplicate Reward Currency +{Value}%,重複獎勵資源 +{Value}%,重复奖励资源 +{Value}%,重複報酬資源 +{Value}%
+UI_Collection,collection_buff_special_currency,{ColorLabel} 전용 재화 획득량 {Value},{ColorLabel} Exclusive Currency Gain +{Value}%,{ColorLabel} 專用資源獲得量 +{Value}%,{ColorLabel} 专用资源获得量 +{Value}%,{ColorLabel} 専用資源獲得量 +{Value}%
+UI_Collection,collection_color_black_label,검은,Black,黑色,黑色,黒
+UI_Collection,collection_color_blue_label,파란,Blue,藍色,蓝色,青
+UI_Collection,collection_color_default_label,전용,Exclusive,專用,专用,専用
+UI_Collection,collection_color_red_label,빨간,Red,紅色,红色,赤
+UI_Collection,collection_color_white_label,하얀,White,白色,白色,白
+UI_Collection,collection_color_yellow_label,노란,Yellow,黃色,黄色,黄
+UI_Collection,collection_slot_locked_desc,아직 획득하지 못한 진화체입니다.,Evolution form not yet acquired.,尚未獲得的進化體。,尚未获得的进化体。,まだ獲得していない進化体です。
+UI_Collection,collection_slot_unlocked_desc,{EggName}을 키웠더니 {EvolvedName}{ParticleSubject} 되었다.,Raised {EggName} and it became {EvolvedName}{ParticleSubject}.,培育了{EggName}後變成了{EvolvedName}{ParticleSubject}。,培育了{EggName}后变成了{EvolvedName}{ParticleSubject}。,{EggName}を育てたら{EvolvedName}{ParticleSubject}になった。
+UI_Collection,collection_slot_locked_name,???,???,???,???,???
+UI_Collection,collection_tooltip_no_buff,적용된 버프가 없습니다.,No buffs applied.,沒有套用的增益效果。,没有套用的增益效果。,適用されたバフがありません。
+UI_Running,running_result_hp,남은 HP,Remaining HP,剩餘HP,剩余HP,残りHP
+UI_Running,running_result_combo,콤보,Combo,連擊,连击,コンボ
+UI_Running,running_result_score,총점,Total Score,總分,总分,総合得点
+UI_Running,running_result_reward,보상,Reward,獎勵,奖励,報酬
+UI_Running,running_result_again,다시하기,Retry,重試,重试,リトライ
+UI_Running,running_result_lobby,로비이동,Return to Lobby,返回大廳,返回大厅,ロビーへ
+UI_Running,running_result_next,다음 스테이지,Next Stage,下一關,下一关,次のステージ
+UI_Running,running_result_exit,나가기,Exit,離開,离开,終了
+Chapter,chapter_locked_desc,이전 챕터를 클리어 해주세요.,Please clear the previous chapter.,請先完成前一章節。,请先完成前一章节。,前のチャプターをクリアしてください。
+Chapter,chapter_play_progress,진행도,Progress,進度,进度,進行度
+UI_Stage_Pause,stage_pause_pause,일시정지,Pause,暫停,暂停,一時停止
+UI_Stage_Pause,stage_pause_resume,이어하기,Resume,繼續,继续,再開する
+UI_Stage_Pause,stage_pause_restart,처음부터,Restart,重新開始,重新开始,最初から
+UI_Stage_Pause,stage_pause_exit,나가기,Exit,離開,离开,終了
+UI_Stage_Popup,stage_message_restart,정말 처음부터 하시겠습니까? \n 지금까지의 진행도가 초기화됩니다.,Are you sure you want to restart?\nAll current progress will be reset.,確定要重新開始嗎？\n目前的進度將會重置。,确定要重新开始吗？\n目前的进度将会重置。,本当に最初からやり直しますか？\nこれまでの進行度がリセットされます。
+UI_Stage_Popup,stage_message_exit,정말 스테이지를 나가시겠습니까?\n지금까지의 진행도가 초기화됩니다.,Are you sure you want to exit the stage?\nAll current progress will be reset.,確定要離開關卡嗎？\n目前的進度將會重置。,确定要离开关卡吗？\n目前的进度将会重置。,本当にステージから出ますか？\nこれまでの進行度がリセットされます。
+UI_Popup,yes,yes,Yes,是,是,はい
+UI_Popup,no,no,No,否,否,いいえ

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Data
+  m_GUID: 12fa7b684bd6fd74bb0fb892925d2d2f
+  m_SerializeEntries:
+  - m_GUID: 07740c49ddc54844589ee9f92225a31a
+    m_Address: CurrencyTableSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fb0e310df0456d44928da63116ed6d2
+    m_Address: StatTypeSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72984ead97222194387f99edcc5539fa
+    m_Address: EvolutionRuleTableSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856b59ded37257742b8b7893e0af162a
+    m_Address: GrowthConditionPoolSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d1b7d040f173d4c9b0372dd566ac74
+    m_Address: StageTableSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b373b26cec0af8146acf2ce774086162
+    m_Address: EvolvedFormTableSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4e135b66956fc1428fc5693bfaf6496
+    m_Address: EggTableSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0965e33eeff0f54892dd431d6e44c30, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e3430a6f6ccca424d97884f60faa94eb, type: 2}
+    - {fileID: 11400000, guid: 37f8a8c99374bfe4bae2ee997666addc, type: 2}

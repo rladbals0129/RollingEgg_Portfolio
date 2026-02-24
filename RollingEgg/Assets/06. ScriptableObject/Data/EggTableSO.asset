@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4fc849792b5424d8b36f904b6cbb8a, type: 3}
+  m_Name: EggTableSO
+  m_EditorClassIdentifier: 
+  rows:
+  - id: 1
+    eggType: blue
+    nameLocKey: egg_blue
+    icon:
+      m_AssetGUID: 62df33b3576177c4488b36c5738a30ce
+      m_SubObjectName: Icon_pc_egg_blue_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    eggImage:
+      m_AssetGUID: 62df33b3576177c4488b36c5738a30ce
+      m_SubObjectName: Icon_pc_egg_blue_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    animatorController:
+      m_AssetGUID: 24d1a48e40793bd4d992258bdd94e6a5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    mapBackground:
+      m_AssetGUID: 05c45b4c71a865447a5609d251d3f54c
+      m_SubObjectName: bg_nurture 1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    description: BlueEgg
+    themeColor: {r: 0, g: 0, b: 1, a: 0}
+  - id: 2
+    eggType: red
+    nameLocKey: egg_red
+    icon:
+      m_AssetGUID: 88478e876080fa34eb5031950a0e356c
+      m_SubObjectName: icon_pc_egg_red_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    eggImage:
+      m_AssetGUID: 88478e876080fa34eb5031950a0e356c
+      m_SubObjectName: icon_pc_egg_red_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    animatorController:
+      m_AssetGUID: 849ff44a524ee7b469bf5d920ead33ba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    mapBackground:
+      m_AssetGUID: 05c45b4c71a865447a5609d251d3f54c
+      m_SubObjectName: bg_nurture 1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    description: Red
+    themeColor: {r: 1, g: 0, b: 0, a: 0}
+  - id: 3
+    eggType: white
+    nameLocKey: egg_white
+    icon:
+      m_AssetGUID: 33cee62c71ce8e94a9049df99f85ceb6
+      m_SubObjectName: icon_pc_egg_white_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    eggImage:
+      m_AssetGUID: 33cee62c71ce8e94a9049df99f85ceb6
+      m_SubObjectName: icon_pc_egg_white_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    animatorController:
+      m_AssetGUID: a4b60a84e4359ed4c992765107b5ecf8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    mapBackground:
+      m_AssetGUID: 05c45b4c71a865447a5609d251d3f54c
+      m_SubObjectName: bg_nurture 1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    description: White
+    themeColor: {r: 1, g: 1, b: 1, a: 0}
+  - id: 4
+    eggType: black
+    nameLocKey: egg_black
+    icon:
+      m_AssetGUID: 0c569c6938565a14295581d5b819bb2d
+      m_SubObjectName: icon_pc_egg_black_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    eggImage:
+      m_AssetGUID: 0c569c6938565a14295581d5b819bb2d
+      m_SubObjectName: icon_pc_egg_black_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    animatorController:
+      m_AssetGUID: 7b440ac756d9b55448f81539081e48c8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    mapBackground:
+      m_AssetGUID: 05c45b4c71a865447a5609d251d3f54c
+      m_SubObjectName: bg_nurture 1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    description: Black
+    themeColor: {r: 0, g: 0, b: 0, a: 0}
+  - id: 5
+    eggType: yellow
+    nameLocKey: egg_yellow
+    icon:
+      m_AssetGUID: 8c00a2fe7b0263a41b0f1265a9df13f5
+      m_SubObjectName: icon_pc_egg_yellow_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    eggImage:
+      m_AssetGUID: 8c00a2fe7b0263a41b0f1265a9df13f5
+      m_SubObjectName: icon_pc_egg_yellow_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    animatorController:
+      m_AssetGUID: 934072990e959584c98fc3e279866c6d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    mapBackground:
+      m_AssetGUID: 05c45b4c71a865447a5609d251d3f54c
+      m_SubObjectName: bg_nurture 1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
+    description: 
+    themeColor: {r: 1, g: 1, b: 0, a: 0}

@@ -1,0 +1,172 @@
+---
+alwaysApply: true
+---
+
+# RollingEgg - Unity 2D Indie Game Project
+
+Your answer will always be in Korean
+
+## Project Overview
+- **Genre**: Breeding (Egg Hatching) + Running (Rhythm Game + Puzzle) Pixel Art Indie Game
+- **Team Size**: 2 developers
+- **Engine**: Unity 6000.0.48f1 LTS
+- **Architecture**: Service Locator Pattern + Event Bus System
+
+## Coding Conventions
+
+### Namespace Rules
+- `RollingEgg.Core`: Core systems (GameManager, ServiceLocator, EventBus, etc.)
+- `RollingEgg.UI`: UI related classes
+- `RollingEgg.Gameplay`: Gameplay logic
+- `RollingEgg.Data`: Data and configuration related
+- `RollingEgg.Audio`: Audio related
+- `RollingEgg.Utils`: Utility classes
+
+### Naming Rules
+- **Classes**: PascalCase (e.g., `GameManager`, `UI_Base`)
+- **Methods**: PascalCase (e.g., `InitializeAsync`, `ShowPopup`)
+- **Variables/Fields**: camelCase (e.g., `_currentScene`, `isInitialized`)
+- **Constants**: UPPER_CASE (e.g., `MAX_LEVEL`, `DEFAULT_VALUE`)
+- **Private Fields**: Underscore prefix (e.g., `_privateField`)
+- **Interfaces**: I prefix (e.g., `IResourceService`, `IEventBus`)
+
+### File Structure
+- Scripts organized by functionality folders
+- UI uses `UI/Scene`, `UI/Popup` subfolders
+- Each class in separate file
+- Meta files are auto-generated, do not modify
+
+## Architecture Guidelines
+
+### Service Locator Pattern
+- All services registered/retrieved through `ServiceLocator`
+- Interface and implementation separation required
+- Service registration performed in `GameManager.ServiceRegister()`
+
+### Event Bus System
+- Component communication through EventBus
+- Event data defined as struct
+- Subscribe/unsubscribe managed in appropriate lifecycle
+
+### UI System
+- All UI inherits from `UI_Base`
+- Scene UI inherits from `UI_Scene`
+- Popup UI inherits from `UI_Popup`
+- UI show/hide managed through `UIManager`
+
+### Resource Management
+- All resources use Addressables
+- Asynchronous loading through `ResourceManager`
+- Proper memory management and unloading
+
+## Technology Stack & Dependencies
+
+### Required Packages
+- **UniTask**: Async processing
+- **Addressables**: Resource management
+- **Input System**: Input handling
+- **URP**: 2D rendering
+- **DOTween**: Animation
+
+### Recommended Packages
+- **TextMeshPro**: Text rendering
+- **2D Sprite**: 2D graphics
+- **Audio**: Audio system
+
+## Development Principles
+
+### 1. Code Quality
+- Follow Single Responsibility Principle
+- Utilize dependency injection
+- Use UniTask for async processing
+- Implement proper exception handling and logging
+
+### 2. Performance Optimization
+- Utilize object pooling
+- Avoid unnecessary Update() calls
+- Minimize memory allocation
+- Optimize 2D sprites
+
+### 3. Scalability
+- Maintain modular structure
+- Use ScriptableObject for configuration data
+- Reduce coupling through event-based communication
+
+### 4. Maintainability
+- Write clear comments
+- Use meaningful variable/method names
+- Minimize code duplication
+- Maintain consistent coding style
+
+## Game System Guidelines
+
+### Breeding System
+- Probability-based egg hatching system
+- Egg experience system + shared breeding materials + exclusive breeding materials
+- Manage probability tables with ScriptableObject
+- Event-based result processing
+
+### Running Gameplay
+- Rhythm game elements (color change system following lines Q, W, E, R, T)
+- Puzzle elements (obstacles, items)
+- Score and progress system
+- Input handling using Input System
+
+### Data Management
+- JSON-based data storage
+- PlayerPrefs + file system
+- Cloud save support
+- Data validation and backup
+
+## Debugging & Testing
+
+### Logging
+- `Debug.Log()`: General information
+- `Debug.LogWarning()`: Warning messages
+- `Debug.LogError()`: Error messages
+- Minimize logging in release builds
+
+### Testing
+- Write unit tests for core logic
+- Create UI test cases
+- Implement gameplay scenario tests
+
+## Git Workflow
+
+### Branch Strategy
+- `main`: Stable release version
+- `develop`: Development integration branch
+- `feature/*`: Feature development branch
+- `hotfix/*`: Emergency fix branch
+
+### Commit Messages
+- `feat:`: New features
+- `fix:`: Bug fixes
+- `refactor:`: Code refactoring
+- `docs:`: Documentation changes
+- `style:`: Code style changes
+- `test:`: Test additions/modifications
+
+## Guidelines
+
+### Prohibited
+- Excessive use of `MonoBehaviour`'s `Update()`
+- Hardcoded values
+- Direct component references (excessive GetComponent usage)
+- Code that may cause memory leaks
+
+### Recommended
+- Use event-based communication
+- Actively utilize async processing
+- Externalize configuration data
+- Consider code reusability
+
+## Documentation
+- Write README for each system
+- Auto-generate API documentation
+- Write code comments in Korean
+- Record changes in CHANGELOG
+
+---
+
+Follow these rules to write consistent and maintainable code.
